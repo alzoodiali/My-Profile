@@ -1,0 +1,128 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "education": "Education",
+    "career": "Career",
+    "services": "Services",
+    "contact": "Contact",
+    "hireMe": "Hire Me"
+  },
+  "hero": {
+    "badge": "🟢 Available for Internship & Junior Roles",
+    "title": "Hi, I'm Ali Al-Zoodi",
+    "subtitle": "Information Technology Graduate | Flutter Developer",
+    "description": "Passionate IT graduate specialized in Flutter mobile application development. I enjoy building modern, responsive, and user-friendly applications while continuously improving my skills in React.js and software development.",
+    "viewProjects": "View Projects",
+    "downloadCv": "Download CV",
+    "contactMe": "Contact Me",
+    "experience": "2025 - 2026 IT Graduate",
+    "techStack": "Flutter • React • Dart • Firebase"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Passionate developer, fast learner & problem solver",
+    "bio": "I am Ali Al-Zoodi, an Information Technology graduate from Al-Razi University. My main interest is Flutter application development. I enjoy creating clean user interfaces, solving programming challenges, and learning modern technologies. I have intermediate experience with React.js and a strong foundation in software development.",
+    "educationTitle": "Education",
+    "educationValue": "Bachelor of IT (Al-Razi University)",
+    "locationTitle": "Location",
+    "locationValue": "Available Remote & On-site",
+    "englishLevelTitle": "English Proficiency",
+    "englishLevelValue": "Intermediate English",
+    "focusTitle": "Primary Focus",
+    "focusValue": "Flutter Mobile & React Frontend"
+  },
+  "skills": {
+    "title": "Skills & Expertise",
+    "subtitle": "Technical stack and tools I work with",
+    "all": "All Skills",
+    "mobile": "Mobile Dev",
+    "frontend": "Frontend",
+    "programming": "Programming",
+    "concepts": "Concepts",
+    "tools": "Tools",
+    "intermediate": "Intermediate",
+    "proficient": "Proficient",
+    "advanced": "Advanced"
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "subtitle": "Explore my latest mobile & web software applications",
+    "all": "All Projects",
+    "mobile": "Mobile Apps",
+    "web": "Web Apps",
+    "iot": "IoT & Smart Systems",
+    "viewCode": "GitHub Code",
+    "liveDemo": "Live Demo",
+    "details": "View Details",
+    "p1": {
+      "title": "Smart Home System",
+      "tag": "IoT & Flutter App",
+      "desc": "A smart home application that allows users to control devices remotely through a mobile application.",
+      "longDesc": "An end-to-end IoT smart home solution integrating a Flutter mobile client with ESP32 microcontroller hardware and Firebase Realtime Database. Features real-time sensor status monitoring, remote relay control, automatic security alerts, and custom ambient lighting modes."
+    },
+    "p2": {
+      "title": "Flutter Mobile Applications",
+      "tag": "Cross-Platform Mobile",
+      "desc": "Modern cross-platform mobile applications with responsive UI and smooth user experience.",
+      "longDesc": "A suite of modern Flutter mobile applications demonstrating clean architecture, Provider/Riverpod state management, custom animations, dark mode support, and REST API integration with Firebase backend storage."
+    },
+    "p3": {
+      "title": "React.js Web Projects",
+      "tag": "Frontend Web Application",
+      "desc": "Responsive web applications built using modern frontend technologies.",
+      "longDesc": "Modern React web applications developed with TypeScript, Tailwind CSS, component-driven UI architecture, state management, interactive dashboards, and full responsive design across mobile, tablet, and desktop."
+    }
+  },
+  "education": {
+    "title": "Education Timeline",
+    "subtitle": "Academic background & foundational learning",
+    "degree": "Bachelor of Information Technology",
+    "university": "Al-Razi University",
+    "period": "Graduated: 2025 - 2026",
+    "description": "Graduated with honors in Information Technology. Specialized in software engineering principles, mobile application development, database architecture, network fundamentals, and web technologies.",
+    "highlights": ["Mobile App Engineering", "Database Systems & SQL", "Object-Oriented Programming", "Data Structures & Algorithms"]
+  },
+  "career": {
+    "title": "Open to Opportunities",
+    "subtitle": "Ready to bring energy and commitment to your team",
+    "description": "Looking for internship and junior Flutter Developer opportunities where I can apply my skills, learn from experienced teams, and contribute to impactful projects.",
+    "cta": "Let's Connect"
+  },
+  "services": {
+    "title": "Services I Offer",
+    "subtitle": "High quality mobile & web development services tailored to your needs",
+    "s1Title": "Flutter Application Development",
+    "s1Desc": "Building high-performance, cross-platform Android and iOS applications with Flutter & Dart.",
+    "s2Title": "UI Implementation",
+    "s2Desc": "Translating Figma and Adobe XD designs into clean, responsive pixel-perfect Flutter and React code.",
+    "s3Title": "Mobile App Design",
+    "s3Desc": "Crafting intuitive, user-friendly mobile user interfaces and seamless user experience flows.",
+    "s4Title": "API Integration",
+    "s4Desc": "Connecting frontend clients to RESTful APIs, Firebase services, and real-time backend channels.",
+    "s5Title": "Cross-platform Development",
+    "s5Desc": "Delivering unified mobile and web applications with shared codebase efficiency and maximum performance."
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Have an opportunity or project in mind? Send me a message!",
+    "name": "Your Name",
+    "email": "Your Email",
+    "subject": "Subject",
+    "message": "Your Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "successTitle": "Message Sent Successfully!",
+    "successMsg": "Thank you for reaching out, Ali will get back to you shortly.",
+    "github": "GitHub Profile",
+    "linkedin": "LinkedIn Profile",
+    "emailUs": "Email Me",
+    "whatsapp": "WhatsApp Chat"
+  },
+  "footer": {
+    "rights": "All Rights Reserved.",
+    "designedBy": "Designed & Built for Ali Al-Zoodi"
+  }
+}
